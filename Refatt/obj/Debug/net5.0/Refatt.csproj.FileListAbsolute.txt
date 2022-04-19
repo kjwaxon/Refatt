@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\Refatt.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\Refatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\Refatt.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\Refatt.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\Refatt.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharppart3\Refatt\bin\Debug\net5.0\Refatt.exe
+C:\Users\Asus\source\repos\CSharppart3\Refatt\bin\Debug\net5.0\Refatt.deps.json
+C:\Users\Asus\source\repos\CSharppart3\Refatt\bin\Debug\net5.0\Refatt.runtimeconfig.json
+C:\Users\Asus\source\repos\CSharppart3\Refatt\bin\Debug\net5.0\Refatt.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\CSharppart3\Refatt\bin\Debug\net5.0\Refatt.dll
+C:\Users\Asus\source\repos\CSharppart3\Refatt\bin\Debug\net5.0\ref\Refatt.dll
+C:\Users\Asus\source\repos\CSharppart3\Refatt\bin\Debug\net5.0\Refatt.pdb
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\Refatt.dll
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\ref\Refatt.dll
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\Refatt.pdb
+C:\Users\Asus\source\repos\CSharppart3\Refatt\obj\Debug\net5.0\Refatt.genruntimeconfig.cache
